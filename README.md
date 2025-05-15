@@ -35,6 +35,22 @@ Repository ini berisi kumpulan program yang saya kerjakan untuk keperluan tugas 
 
 ---
 
+### 3. Simulasi Kendali Motor Stepper
+- **Deskripsi:** Kendali motor stepper 28BYJ-48 menggunakan urutan step untuk memutar motor searah dan berlawanan arah jarum jam.
+- **Komponen:** Motor stepper 28BYJ-48, driver ULN2003.
+- **Fitur:** Memutar motor stepper sebesar 90°, 270°, dan 360° dengan jeda antar rotasi.
+
+#### File
+- `kendali_motor_stepper/kendali_stepper.ino`: Program Arduino untuk motor stepper.
+
+#### Cara Menggunakan
+1. Buka file `kendali_stepper.ino` di Arduino IDE.
+2. Pilih board dan port yang sesuai.
+3. Upload program ke Arduino.
+4. Lihat rotasi motor sesuai program (90°, 270°, dan 360°).
+
+---
+
 ## Catatan
 Setiap folder berisi file `.ino` untuk masing-masing proyek. Kode ditulis dan diuji menggunakan Arduino IDE.
 
