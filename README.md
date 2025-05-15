@@ -41,7 +41,7 @@ Repository ini berisi kumpulan program yang saya kerjakan untuk keperluan tugas 
 - **Fitur:** Memutar motor stepper sebesar 90°, 270°, dan 360° dengan jeda antar rotasi.
 
 #### File
-- `kendali_motor_stepper/kendali_stepper.ino`: Program Arduino untuk motor stepper.
+- `kendali_motor_stepper/kendali_motor_stepper.ino`: Program Arduino untuk motor stepper.
 
 #### Cara Menggunakan
 1. Buka file `kendali_stepper.ino` di Arduino IDE.
