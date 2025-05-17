@@ -56,4 +56,3 @@ Setiap folder berisi file `.ino` untuk masing-masing proyek. Kode ditulis dan di
 
 ---
 
-Silakan eksplorasi tiap folder untuk detail lebih lanjut dari masing-masing program.
