@@ -55,4 +55,5 @@ Repository ini berisi kumpulan program yang saya kerjakan untuk keperluan tugas 
 Setiap folder berisi file `.ino` untuk masing-masing proyek. Kode ditulis dan diuji menggunakan Arduino IDE.
 
 ---
+Silakan eksplorasi folder-folder yang ada untuk mengetahui kode programnya.
 
